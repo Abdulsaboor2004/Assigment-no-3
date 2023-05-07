@@ -13,5 +13,4 @@ if (number % 2 === 0) {
     
 }
 
-// I searched online Understood the Code, but don't know why it isn't working Maybe I try checking by transfering it into an Html file.
 
